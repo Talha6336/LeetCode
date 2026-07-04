@@ -3,6 +3,8 @@
 ## Progress
 
 - [x] Merge Strings Alternately
+- [x] Greatest Common Divisor of Strings
+
 
 
 ## Topics
@@ -17,5 +19,5 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 1
+Solved: 2
 
