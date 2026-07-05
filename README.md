@@ -2,8 +2,9 @@
 
 ## Progress
 
-- [x] Merge Strings Alternately
-- [x] Greatest Common Divisor of Strings
+- [x] 1768 Merge Strings Alternately
+- [x] 1071 Greatest Common Divisor of Strings
+- [x] 1431 Kids With the Greatest Number of Candies
 
 
 
@@ -19,5 +20,5 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 2
+Solved: 3
 
