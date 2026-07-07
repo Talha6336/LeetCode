@@ -6,6 +6,7 @@
 - [x] 1071 Greatest Common Divisor of Strings
 - [x] 1431 Kids With the Greatest Number of Candies
 - [x] 605 Can Place Flowers
+- [x] 345 Reverse Vowels of a String
 
 
 
@@ -22,5 +23,5 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 3
+Solved: 5
 
