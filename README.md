@@ -2,6 +2,7 @@
 
 ## Progress
 
+### Array
 - [x] 1768 Merge Strings Alternately
 - [x] 1071 Greatest Common Divisor of Strings
 - [x] 1431 Kids With the Greatest Number of Candies
@@ -9,6 +10,8 @@
 - [x] 345 Reverse Vowels of a String
 
 
+### Two-Pointers
+- [x] 283 Move Zeroes
 
 
 ## Topics
@@ -23,5 +26,5 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 5
+Solved: 6
 
