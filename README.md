@@ -12,6 +12,7 @@
 
 ### Two-Pointers
 - [x] 283 Move Zeroes
+- [x] 392 Is Subsequence
 
 
 ## Topics
@@ -26,5 +27,5 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 6
+Solved: 7
 
