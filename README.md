@@ -17,6 +17,8 @@
 - [x] 283 Move Zeroes
 - [x] 392 Is Subsequence
 
+### Sliding-Window
+- [x] 643 Maximum Average Subarray I
 
 ## Topics
 
@@ -30,5 +32,5 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 9
+Solved: 10
 
