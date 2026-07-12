@@ -12,6 +12,7 @@
 - [x] 151 Reverse Words in a String
 - [x] 238 Product of Array Except Self
 - [x] 334 Increasing Triplet Subsequence
+- [x] 443 String Compression
 
 ### Two-Pointers
 
@@ -34,4 +35,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 11
+Solved: 12
