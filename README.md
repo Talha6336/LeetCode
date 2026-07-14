@@ -19,6 +19,7 @@
 - [x] 283 Move Zeroes
 - [x] 392 Is Subsequence
 - [x] 11 Container With Most Water
+- [x] 1679 Max Number of K-Sum Pairs
 
 ### Sliding-Window
 
@@ -36,4 +37,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 13
+Solved: 14
