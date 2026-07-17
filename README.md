@@ -26,6 +26,8 @@
 - [x] 643 Maximum Average Subarray I
 - [x] 1456 Maximum Number of Vowels in a Substring of Given Length
 - [x] 1004 Max Consecutive Ones III
+- [x] 1493 Longest Subarray of 1's After Deleting One Element
+
 
 
 ## Topics
@@ -40,4 +42,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 16
+Solved: 17
