@@ -28,8 +28,9 @@
 - [x] 1004 Max Consecutive Ones III
 - [x] 1493 Longest Subarray of 1's After Deleting One Element
 
+### Prefix-Sum
 
-
+- [x] 1732 Find the Highest Altitude
 ## Topics
 
 - Arrays
@@ -42,4 +43,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 17
+Solved: 18
