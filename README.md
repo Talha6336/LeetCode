@@ -31,6 +31,7 @@
 ### Prefix-Sum
 
 - [x] 1732 Find the Highest Altitude
+- [x] 724 Find Pivot Index
 ## Topics
 
 - Arrays
@@ -43,4 +44,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 18
+Solved: 19
