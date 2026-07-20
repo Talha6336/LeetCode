@@ -32,6 +32,10 @@
 
 - [x] 1732 Find the Highest Altitude
 - [x] 724 Find Pivot Index
+
+### Hash-Map
+- [x] 2215 Find the Difference of Two Arrays
+
 ## Topics
 
 - Arrays
@@ -44,4 +48,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 19
+Solved: 20
