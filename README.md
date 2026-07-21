@@ -35,7 +35,7 @@
 
 ### Hash-Map
 - [x] 2215 Find the Difference of Two Arrays
-
+- [x] 1207 Unique Number of Occurrences
 ## Topics
 
 - Arrays
@@ -48,4 +48,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 20
+Solved: 21
