@@ -36,6 +36,8 @@
 ### Hash-Map
 - [x] 2215 Find the Difference of Two Arrays
 - [x] 1207 Unique Number of Occurrences
+- [x] 1657 Determine if Two Strings Are Close
+
 ## Topics
 
 - Arrays
@@ -48,4 +50,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 21
+Solved: 22
