@@ -37,6 +37,7 @@
 - [x] 2215 Find the Difference of Two Arrays
 - [x] 1207 Unique Number of Occurrences
 - [x] 1657 Determine if Two Strings Are Close
+- [x] 2352 Equal Row and Column Pairs
 
 ## Topics
 
@@ -50,4 +51,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 22
+Solved: 23
