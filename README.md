@@ -34,10 +34,15 @@
 - [x] 724 Find Pivot Index
 
 ### Hash-Map
+
 - [x] 2215 Find the Difference of Two Arrays
 - [x] 1207 Unique Number of Occurrences
 - [x] 1657 Determine if Two Strings Are Close
 - [x] 2352 Equal Row and Column Pairs
+
+### Stack
+
+- [x] 2390 Removing Stars From a String
 
 ## Topics
 
@@ -51,4 +56,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 23
+Solved: 24
