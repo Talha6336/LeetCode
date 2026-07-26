@@ -44,6 +44,7 @@
 
 - [x] [2390 Removing Stars From a String](Stack/2390_Removing_Stars_From_a_String.py)
 - [x] [735 Asteroid Collision](Stack/735_Asteroid_Collision.py)
+- [x] [394 Decode String](Stack/394_Decode_String.py)
 
 ## Topics
 
