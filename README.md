@@ -46,6 +46,10 @@
 - [x] [735 Asteroid Collision](Stack/735_Asteroid_Collision.py)
 - [x] [394 Decode String](Stack/394_Decode_String.py)
 
+### Queue
+- [x] [993 Number of Recent Calls](Queue/993_Number_of_Recent_Calls.py)
+
+
 ## Topics
 
 - Arrays
@@ -58,4 +62,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 25
+Solved: 26
