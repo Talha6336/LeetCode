@@ -48,6 +48,7 @@
 
 ### Queue
 - [x] [993 Number of Recent Calls](Queue/993_Number_of_Recent_Calls.py)
+- [x] [649 Dota2 Senate](Queue/649_Dota2_Senate.py)
 
 
 ## Topics
@@ -62,4 +63,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 26
+Solved: 27
