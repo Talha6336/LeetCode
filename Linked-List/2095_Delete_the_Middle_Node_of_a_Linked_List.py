@@ -19,6 +19,8 @@ Space Complexity: O(1)
 
 class Solution:
     def deleteMiddle(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if head.next is None:
+            return None
         prev = None
         slow = fast = head
         while fast and fast.next:
