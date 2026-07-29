@@ -50,6 +50,8 @@
 - [x] [993 Number of Recent Calls](Queue/993_Number_of_Recent_Calls.py)
 - [x] [649 Dota2 Senate](Queue/649_Dota2_Senate.py)
 
+### Linked List
+- [x] [2095 Delete the Middle Node of a Linked List](Linked-List/2095_Delete_the_Middle_Node_of_a_Linked_List.py)
 
 ## Topics
 
@@ -63,4 +65,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 27
+Solved: 28
