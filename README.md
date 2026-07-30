@@ -52,6 +52,7 @@
 
 ### Linked List
 - [x] [2095 Delete the Middle Node of a Linked List](Linked-List/2095_Delete_the_Middle_Node_of_a_Linked_List.py)
+- [x] [328 Odd Even Linked List](Linked-List/328_Odd_Even_Linked_List.py)
 
 ## Topics
 
@@ -65,4 +66,4 @@
 - Graphs
 - Dynamic Programming
 
-Solved: 28
+Solved: 29
